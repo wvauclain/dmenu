@@ -28,3 +28,6 @@ static const char worddelimiters[] = " ";
 
 /* Size of the window border */
 static const unsigned int border_width = 2;
+
+/* Default width of the window; can be overridden using the -w option */
+static const unsigned int default_width = 400;
