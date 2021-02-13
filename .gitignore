@@ -1,0 +1,5 @@
+// Ignore everything that is cleaned up by the Makefile
+dmenu
+stest
+*.o
+dmenu-*.tar.gz
